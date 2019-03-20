@@ -28,7 +28,7 @@ IfEmptyDynamicValue.identifier = "io.chengguo.PawExtensions.IfEmptyDynamicValue"
 IfEmptyDynamicValue.title = "If Empty Dynamic Value";
 
 // Link to the Dynamic Value documentation.
-IfEmptyDynamicValue.title = "https://github.com/FingerArt/IfEmptyDynamicValue"
+IfEmptyDynamicValue.help = "https://github.com/FingerArt/IfEmptyDynamicValue"
 
 // set input fields
 IfEmptyDynamicValue.inputs = [
