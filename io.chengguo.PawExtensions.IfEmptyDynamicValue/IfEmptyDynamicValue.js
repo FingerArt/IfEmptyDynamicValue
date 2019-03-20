@@ -27,6 +27,9 @@ IfEmptyDynamicValue.identifier = "io.chengguo.PawExtensions.IfEmptyDynamicValue"
 // give a display name to your Dynamic Value
 IfEmptyDynamicValue.title = "If Empty Dynamic Value";
 
+// Link to the Dynamic Value documentation.
+IfEmptyDynamicValue.title = "https://github.com/FingerArt/IfEmptyDynamicValue"
+
 // set input fields
 IfEmptyDynamicValue.inputs = [
   InputField("name", "Name", "String"),
